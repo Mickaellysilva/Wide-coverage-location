@@ -1,0 +1,177 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+
+
+*{
+    margin:0;
+    padding:0;
+
+}
+
+header{
+    width:100vw;
+    height:10vh;
+    font-size:13px;
+    display:inline-block;
+    font-family:'Montserrat', sans-serif;
+}
+ul{
+   display:flex;
+   float:left;
+   margin-top:2vw;
+   list-style-type:none;
+
+}
+
+li{
+    margin-left:5vh;
+}
+
+
+li:hover{
+    color:blue;
+}
+   
+
+
+#butheader{
+  border:0;    
+  width:60px;
+  height:30px;
+  color:white;
+  background-color:blue;
+}
+
+
+main{
+    display:flex;
+}
+
+img{
+    width:40vw;
+    height:50vh;
+    margin-top:10vh;
+    display:inline-block;   
+}
+#left{
+    width:50vw;
+    height:50vh;
+    margin-left:10%;
+}
+
+#right{
+    width:50vw;
+    height:50vh;
+    margin-top:10vh;
+    margin-left:10vh;
+    display:inline-block; 
+}
+
+h1{
+    color:blue;
+    margin-top:10vh;
+}
+
+p{
+    margin-top:1vh; 
+} 
+
+
+#butmain{
+    border:0;    
+    color:white;
+    width:100px;
+    height:35px;
+    margin-top:2vh;
+    margin-left:20px;
+    border-radius:10px;
+    background-color:blue;
+}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+
+
+*{
+    margin:0;
+    padding:0;
+
+}
+
+header{
+    width:100vw;
+    height:10vh;
+    font-size:13px;
+    display:inline-block;
+    font-family:'Montserrat', sans-serif;
+}
+ul{
+   display:flex;
+   float:left;
+   margin-top:2vw;
+   list-style-type:none;
+
+}
+
+li{
+    margin-left:5vh;
+}
+
+
+li:hover{
+    color:blue;
+}
+   
+
+
+#butheader{
+  border:0;    
+  width:60px;
+  height:30px;
+  color:white;
+  background-color:blue;
+}
+
+
+main{
+    display:flex;
+}
+
+img{
+    width:40vw;
+    height:50vh;
+    margin-top:10vh;
+    display:inline-block;   
+}
+#left{
+    width:50vw;
+    height:50vh;
+    margin-left:10%;
+}
+
+#right{
+    width:50vw;
+    height:50vh;
+    margin-top:10vh;
+    margin-left:10vh;
+    display:inline-block; 
+}
+
+h1{
+    color:blue;
+    margin-top:10vh;
+}
+
+p{
+    margin-top:1vh; 
+} 
+
+
+#butmain{
+    border:0;    
+    color:white;
+    width:100px;
+    height:35px;
+    margin-top:2vh;
+    margin-left:20px;
+    border-radius:10px;
+    background-color:blue;
+}
